@@ -4,6 +4,5 @@ Please install `present` if you want a better view
 
 Run the tool in the meetup.slide directory & you should be good to go.
 
-` $ pwd -> path/to/this/repo
-  $ present 
-`
+` $ pwd -> path/to/this/repo`
+` $ present `
